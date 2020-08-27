@@ -1,0 +1,22 @@
+{
+  "dataSources": [],
+  "generator": "@radzen/angular-generator",
+  "https": false,
+  "layouts": [
+    "Login",
+    "Main"
+  ],
+  "logo": "",
+  "name": "bxs",
+  "navigation": [
+    "Music",
+    "Albums"
+  ],
+  "pages": [
+    "Music",
+    "Albums",
+    "Just Happy :)"
+  ],
+  "startPage": "Music",
+  "theme": "dark"
+}

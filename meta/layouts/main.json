@@ -1,0 +1,86 @@
+{
+  "components": [
+    {
+      "components": [
+        {
+          "class": "justify-content-start align-items-center",
+          "components": [
+            {
+              "class": "col-md-6 d-flex align-items-center",
+              "components": [
+                {
+                  "name": "sidebar-toggle0",
+                  "type": "sidebar-toggle"
+                },
+                {
+                  "name": "image0",
+                  "path": "/assets/images/vollerkreis_withoutBlack bigger.png",
+                  "style": {
+                    "height": "45px"
+                  },
+                  "type": "image"
+                },
+                {
+                  "name": "label0",
+                  "style": {
+                    "marginLeft": "",
+                    "paddingLeft": "5px"
+                  },
+                  "text": "BlaXrew Studios",
+                  "type": "label"
+                }
+              ],
+              "name": "leftCol",
+              "type": "col"
+            },
+            {
+              "class": "col-md-6 text-lg-right",
+              "name": "rightCol",
+              "type": "col"
+            }
+          ],
+          "name": "headerRow",
+          "type": "row"
+        }
+      ],
+      "name": "header0",
+      "type": "header"
+    },
+    {
+      "components": [
+        {
+          "name": "main",
+          "type": "content-container"
+        }
+      ],
+      "name": "body0",
+      "type": "body"
+    },
+    {
+      "components": [
+        {
+          "name": "panelmenu0",
+          "style": {
+            "height": "100%"
+          },
+          "type": "panelmenu"
+        }
+      ],
+      "name": "sidebar0",
+      "type": "sidebar"
+    },
+    {
+      "components": [
+        {
+          "name": "footerText",
+          "text": "BlaXrew Studios, Copyright &copy; 2020",
+          "type": "label"
+        }
+      ],
+      "fixed": true,
+      "name": "footer0",
+      "type": "footer"
+    }
+  ],
+  "name": "Main"
+}

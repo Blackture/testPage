@@ -1,0 +1,55 @@
+{
+  "access": [
+    "Everybody"
+  ],
+  "components": [
+    {
+      "components": [
+        {
+          "name": "music",
+          "size": "H1",
+          "text": "Music",
+          "type": "heading"
+        },
+        {
+          "name": "heading0",
+          "size": "p",
+          "text": "Music",
+          "type": "heading"
+        },
+        {
+          "name": "label0",
+          "style": {
+            "height": "22px"
+          },
+          "text": "Here you can find our music. Click",
+          "type": "label"
+        },
+        {
+          "attributes": [],
+          "classList": {},
+          "name": "link0",
+          "parameters": [
+            {}
+          ],
+          "path": "https://www.blaxrew-studios.vision",
+          "style": {
+            "verticalAlign": "bottom"
+          },
+          "target": "_self",
+          "text": "here",
+          "type": "link"
+        },
+        {
+          "name": "label1",
+          "text": "to go back the homepage.",
+          "type": "label"
+        }
+      ],
+      "container": "main",
+      "type": "content"
+    }
+  ],
+  "layout": "Main",
+  "name": "Music"
+}
